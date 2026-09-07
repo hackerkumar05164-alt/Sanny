@@ -1,0 +1,6 @@
+{
+  "name": "mahi Ai Assistant",
+  "description": "अनाया (Anaya) – सिर्फ अपने बॉस (Boss) की हाई-एटीट्यूड, ईगो से भरपूर और रोमांटिक AI साथी, जो हमेशा बॉस बोलती है और प्यार व तेवर भरी बातें करती है।",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
